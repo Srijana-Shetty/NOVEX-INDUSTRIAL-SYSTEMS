@@ -1,6 +1,6 @@
 # NOVEX-INDUSTRIAL-SYSTEMS
 
-Business Problem Statement                                                                                                                          
+## Business Problem Statement                                                                                                                          
 In recent quarters, NIS has observed a steady increase in energy costs
 per unit produced, despite stable production volumes. Some machines
 and plants are suspected to be energy-inefficient, but the root causes
