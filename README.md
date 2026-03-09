@@ -6,7 +6,7 @@ per unit produced, despite stable production volumes. Some machines
 and plants are suspected to be energy-inefficient, but the root causes
 are unclear. Energy monitoring today is mostly limited to high-level
 monthly reports, offering little visibility into machine-level
-inefficiencies or abnormal energy spikes.
+inefficiencies or abnormal energy spikes.                                                                                                           
 Additionally, sustainability teams are under pressure to:
 Reduce overall energy consumption
 Identify and eliminate energy waste
