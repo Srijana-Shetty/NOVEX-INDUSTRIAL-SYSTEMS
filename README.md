@@ -15,7 +15,3 @@ Justify efficiency improvement initiatives using data
 Although NIS collects detailed machine-level energy and sensor data,
 it is not systematically analyzed to detect inefficiencies, anomalies, or
 improvement opportunities.                                                                                                                        
-You have been assigned as a data analyst to analyze historical energy
-and production data and build a data-driven energy efficiency and
-waste reduction solution that helps operations, finance, and
-sustainability teams make informed decisions.
