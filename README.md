@@ -7,11 +7,11 @@ and plants are suspected to be energy-inefficient, but the root causes
 are unclear. Energy monitoring today is mostly limited to high-level
 monthly reports, offering little visibility into machine-level
 inefficiencies or abnormal energy spikes.                                                                                                           
-Additionally, sustainability teams are under pressure to:
-Reduce overall energy consumption
+Additionally, sustainability teams are under pressure to:                                                                                           
+Reduce overall energy consumption                                                                                                                   
 Identify and eliminate energy waste
-Improve machine-level energy efficiency
-Justify efficiency improvement initiatives using data
+Improve machine-level energy efficiency                                                                                                             
+Justify efficiency improvement initiatives using data                                                                                               
 Although NIS collects detailed machine-level energy and sensor data,
 it is not systematically analyzed to detect inefficiencies, anomalies, or
 improvement opportunities.
